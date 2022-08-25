@@ -5,7 +5,7 @@ export const Footer = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
+            &copy; 2022 Houston Pixel Photo Booth{' '}
             <a href='http://www.templatewire.com' rel='nofollow'>
               TemplateWire
             </a>
